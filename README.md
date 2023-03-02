@@ -1,6 +1,6 @@
 # Optional-Extensions
 
-This extesnions allows you to write more readable code and not to use nil coalliasing operator "??" in order to provide default value. 
+This extesnions allows you to write more readable code and not to use nil coalliasing operator "??" in order to provide default value for a common Swift types. 
 
 Examples:
 
