@@ -14,7 +14,7 @@ let someString: String = someOptionalString ?? ""
 // we will use this
 let someString: String = someOptionalString.orEmpty
 ```
-2. Numbers
+2. Int/Double/Float/CGFloat...
 ```
 let someOptionalNumber: Int? = nil
 
